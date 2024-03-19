@@ -1,0 +1,4901 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0F7-8x-vMT.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Status\"; ObjectID = \"0F7-8x-vMT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Status"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "0LQ-To-8h6.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PSV Themes\"; ObjectID = \"0LQ-To-8h6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSV Themes"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motywy PSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSV 主题"
+          }
+        }
+      }
+    },
+    "0u4-nU-RL9.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Remove completed and stopped downloads\"; ObjectID = \"0u4-nU-RL9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove completed and stopped downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń zakończone i zatrzymane pliki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除已完成与已暂停项目"
+          }
+        }
+      }
+    },
+    "1b7-l0-nxx.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Find\"; ObjectID = \"1b7-l0-nxx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdź"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找"
+          }
+        }
+      }
+    },
+    "1Xt-HY-uBw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"NPS Browser\"; ObjectID = \"1Xt-HY-uBw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NPS Browser"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NPS Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NPS Browser"
+          }
+        }
+      }
+    },
+    "2oI-Rn-ZJC.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Transformations\"; ObjectID = \"2oI-Rn-ZJC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transformations"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transformacja"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "变形"
+          }
+        }
+      }
+    },
+    "3h3-w4-cco.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Save decrypted PKG as ZIP file\"; ObjectID = \"3h3-w4-cco\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save decrypted PKG as ZIP file"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz odszyfrowane PKG jako ZIP"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将解密的PKG保存为ZIP文件"
+          }
+        }
+      }
+    },
+    "3IN-sU-3Bg.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Spelling\"; ObjectID = \"3IN-sU-3Bg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Spelling"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pisownia"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拼写和语法"
+          }
+        }
+      }
+    },
+    "3rS-ZA-NoH.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Speech\"; ObjectID = \"3rS-ZA-NoH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Speech"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dyktowanie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语音"
+          }
+        }
+      }
+    },
+    "3Xe-xs-Vs3.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"3Xe-xs-Vs3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "3xY-W5-LaM.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Create NoNpDRM license with extraction\"; ObjectID = \"3xY-W5-LaM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create NoNpDRM license with extraction"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utwórz licencje NoNpDRM przy wypakowywaniu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通过提取创建NoNpDRM许可证"
+          }
+        }
+      }
+    },
+    "4EN-yA-p0u.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find\"; ObjectID = \"4EN-yA-p0u\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdź"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找"
+          }
+        }
+      }
+    },
+    "4J7-dP-txa.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Enter Full Screen\"; ObjectID = \"4J7-dP-txa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter Full Screen"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przejdź do pełnego ekranu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "进入全屏幕"
+          }
+        }
+      }
+    },
+    "4q1-1b-TZ6.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PS3 Avatars\"; ObjectID = \"4q1-1b-TZ6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 Avatars"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Awatary PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 图标"
+          }
+        }
+      }
+    },
+    "4sb-4s-VLi.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Quit NPS Browser\"; ObjectID = \"4sb-4s-VLi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Quit NPS Browser"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyjdź z NPS Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出NPS Browser"
+          }
+        }
+      }
+    },
+    "5HB-gO-ket.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"5HB-gO-ket\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "5kV-Vb-QxS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"About NPS Browser\"; ObjectID = \"5kV-Vb-QxS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "About NPS Browser"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O NPS Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于NPS Browser"
+          }
+        }
+      }
+    },
+    "5QF-Oa-p0T.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Edit\"; ObjectID = \"5QF-Oa-p0T\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edytuj"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "6dh-zS-Vam.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Redo\"; ObjectID = \"6dh-zS-Vam\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Redo"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przywróć"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重做"
+          }
+        }
+      }
+    },
+    "6ed-Cl-q8z.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PSV DLCs\"; ObjectID = \"6ed-Cl-q8z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSV DLCs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodatkowa zawartość PSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSV DLC"
+          }
+        }
+      }
+    },
+    "6oq-Vk-1lp.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Database\"; ObjectID = \"6oq-Vk-1lp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Database"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baza danych"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数据库"
+          }
+        }
+      }
+    },
+    "6SS-c2-qNo.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PSV Games\"; ObjectID = \"6SS-c2-qNo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSV Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSV 游戏"
+          }
+        }
+      }
+    },
+    "6VF-MI-KNX.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Type\"; ObjectID = \"6VF-MI-KNX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "7vk-H7-6Tb.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Download\"; ObjectID = \"7vk-H7-6Tb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobierz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "9eM-Ke-ePA.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Extraction Location\"; ObjectID = \"9eM-Ke-ePA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extraction Location"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ścieżka wypakowanych plików"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提取地点"
+          }
+        }
+      }
+    },
+    "9ic-FL-obx.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Substitutions\"; ObjectID = \"9ic-FL-obx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Substitutions"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zastępowanie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "替换"
+          }
+        }
+      }
+    },
+    "9yt-4B-nSM.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Smart Copy/Paste\"; ObjectID = \"9yt-4B-nSM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Smart Copy/Paste"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inteligentne kopiuj-wklej"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能复制/粘贴"
+          }
+        }
+      }
+    },
+    "33j-Nl-d4x.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PSX Games\"; ObjectID = \"33j-Nl-d4x\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSX Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PSX"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSX 游戏"
+          }
+        }
+      }
+    },
+    "34S-RY-qQb.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"--\"; ObjectID = \"34S-RY-qQb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "--"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        }
+      }
+    },
+    "34S-RY-qQb.ibShadowedNoSelectionPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedNoSelectionPlaceholder = \"--\"; ObjectID = \"34S-RY-qQb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "--"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        }
+      }
+    },
+    "34S-RY-qQb.ibShadowedNotApplicablePlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedNotApplicablePlaceholder = \"N/A\"; ObjectID = \"34S-RY-qQb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "N/A"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie dotyczy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "N/A"
+          }
+        }
+      }
+    },
+    "78Y-hA-62v.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Correct Spelling Automatically\"; ObjectID = \"78Y-hA-62v\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Correct Spelling Automatically"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poprawiaj pisownie automatycznie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动更正拼写"
+          }
+        }
+      }
+    },
+    "85Q-2n-tC8.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"CPack\"; ObjectID = \"85Q-2n-tC8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "CPack"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CPack"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CPack"
+          }
+        }
+      }
+    },
+    "314-jf-BWf.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"314-jf-BWf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "A3e-Pg-gZW.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Database\"; ObjectID = \"A3e-Pg-gZW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Database"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baza danych"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数据库"
+          }
+        }
+      }
+    },
+    "AB6-Wy-v3A.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Downloads\"; ObjectID = \"AB6-Wy-v3A\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobrane"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloads"
+          }
+        }
+      }
+    },
+    "aUF-d1-5bR.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Window\"; ObjectID = \"aUF-d1-5bR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Window"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Okno"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "窗口"
+          }
+        }
+      }
+    },
+    "AYu-sK-qS6.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Main Menu\"; ObjectID = \"AYu-sK-qS6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Main Menu"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu główne"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main Menu"
+          }
+        }
+      }
+    },
+    "BEJ-IT-bTi.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"BEJ-IT-bTi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "bfq-He-Rzx.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"region\"; ObjectID = \"bfq-He-Rzx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "region"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Region"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "region"
+          }
+        }
+      }
+    },
+    "bKD-hT-cBr.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PS3 Themes\"; ObjectID = \"bKD-hT-cBr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 Themes"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motywy PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 主题"
+          }
+        }
+      }
+    },
+    "BOF-NM-1cW.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Preferences…\"; ObjectID = \"BOF-NM-1cW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences…"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偏好设置…"
+          }
+        }
+      }
+    },
+    "brt-cy-6FW.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PS3 Games\"; ObjectID = \"brt-cy-6FW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 游戏"
+          }
+        }
+      }
+    },
+    "buJ-ug-pKt.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Use Selection for Find\"; ObjectID = \"buJ-ug-pKt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use Selection for Find"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Używaj zaznaczenia przy szukaniu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用所选内容查找"
+          }
+        }
+      }
+    },
+    "bvt-hI-KLe.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Keep PKG after extraction\"; ObjectID = \"bvt-hI-KLe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Keep PKG after extraction"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zachowaj PKG po wypakowaniu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提取后保留PKG"
+          }
+        }
+      }
+    },
+    "c8a-y6-VQd.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Transformations\"; ObjectID = \"c8a-y6-VQd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Transformations"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transformacja"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "变形"
+          }
+        }
+      }
+    },
+    "Cgn-K5-ek6.title" : {
+      "comment" : "Class = \"NSSplitViewController\"; title = \"Sidebar Split View\"; ObjectID = \"Cgn-K5-ek6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sidebar Split View"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widok podzielony paska bocznego"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sidebar Split View"
+          }
+        }
+      }
+    },
+    "cU6-Yg-yfn.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Compress PSP ISO to .CSO\"; ObjectID = \"cU6-Yg-yfn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Compress PSP ISO to .CSO"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kompresuj PSP ISO do .CSO"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将PSP ISO压缩为.CSO"
+          }
+        }
+      }
+    },
+    "cUI-JS-2y4.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"--\"; ObjectID = \"cUI-JS-2y4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "--"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        }
+      }
+    },
+    "cUI-JS-2y4.ibShadowedNoSelectionPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedNoSelectionPlaceholder = \"--\"; ObjectID = \"cUI-JS-2y4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "--"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "--"
+          }
+        }
+      }
+    },
+    "cUI-JS-2y4.ibShadowedNotApplicablePlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedNotApplicablePlaceholder = \"N/A\"; ObjectID = \"cUI-JS-2y4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "N/A"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie dotyczy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "N/A"
+          }
+        }
+      }
+    },
+    "cwL-P1-jid.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Smart Links\"; ObjectID = \"cwL-P1-jid\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Smart Links"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inteligentne linki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能链接"
+          }
+        }
+      }
+    },
+    "d9M-CD-aMd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Make Lower Case\"; ObjectID = \"d9M-CD-aMd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make Lower Case"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamień na małe litery"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小写"
+          }
+        }
+      }
+    },
+    "d21-RQ-NIf.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Game\"; ObjectID = \"d21-RQ-NIf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Game"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gra"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "游戏"
+          }
+        }
+      }
+    },
+    "dMk-aG-Dlj.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"dMk-aG-Dlj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "dRJ-4n-Yzg.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Undo\"; ObjectID = \"dRJ-4n-Yzg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Undo"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cofnij"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撤销"
+          }
+        }
+      }
+    },
+    "Dv1-io-Yv7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Spelling and Grammar\"; ObjectID = \"Dv1-io-Yv7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Spelling and Grammar"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pisownia i gramatyka"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拼写和语法"
+          }
+        }
+      }
+    },
+    "dVz-1g-gMj.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Save\"; ObjectID = \"dVz-1g-gMj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        }
+      }
+    },
+    "E8I-Dq-6Vs.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"E8I-Dq-6Vs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "eDk-4l-ZtT.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Sources\"; ObjectID = \"eDk-4l-ZtT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sources"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Źródła"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "资源"
+          }
+        }
+      }
+    },
+    "eGJ-xB-4qS.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"eGJ-xB-4qS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "ek9-yU-x1t.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"ek9-yU-x1t\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "El2-Vr-haN.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Hide items with invalid URLs\"; ObjectID = \"El2-Vr-haN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide items with invalid URLs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukryj zawartość z nieprawidłowych linków"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏包含无效网址的项目"
+          }
+        }
+      }
+    },
+    "eMB-Ps-xSE.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Name\"; ObjectID = \"eMB-Ps-xSE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nazwa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称"
+          }
+        }
+      }
+    },
+    "FeM-D8-WVr.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Substitutions\"; ObjectID = \"FeM-D8-WVr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Substitutions"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zastępowanie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "替换"
+          }
+        }
+      }
+    },
+    "fKt-pb-9lz.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"fKt-pb-9lz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "fMf-6J-WgR.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Table View Cell\"; ObjectID = \"fMf-6J-WgR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Table View Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka widocznej tabelki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Table View Cell"
+          }
+        }
+      }
+    },
+    "foH-xv-iG7.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"foH-xv-iG7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "fQj-0f-tng.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"fQj-0f-tng\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "fTh-C0-enL.ibShadowedIsNilPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedIsNilPlaceholder = \"---\"; ObjectID = \"fTh-C0-enL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "---"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        }
+      }
+    },
+    "fTh-C0-enL.ibShadowedMultipleValuesPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedMultipleValuesPlaceholder = \"---\"; ObjectID = \"fTh-C0-enL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "---"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        }
+      }
+    },
+    "fTh-C0-enL.ibShadowedNoSelectionPlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedNoSelectionPlaceholder = \"---\"; ObjectID = \"fTh-C0-enL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "---"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        }
+      }
+    },
+    "fTh-C0-enL.ibShadowedNotApplicablePlaceholder" : {
+      "comment" : "Class = \"CocoaBindingsConnection\"; ibShadowedNotApplicablePlaceholder = \"---\"; ObjectID = \"fTh-C0-enL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "---"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "---"
+          }
+        }
+      }
+    },
+    "fuk-ZQ-Ugp.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Display\"; ObjectID = \"fuk-ZQ-Ugp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Display"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyświetlanie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示"
+          }
+        }
+      }
+    },
+    "gEU-8X-bNu.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"%%%\"; ObjectID = \"gEU-8X-bNu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%%%"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%%%"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%%%"
+          }
+        }
+      }
+    },
+    "gEz-wV-LLD.title" : {
+      "comment" : "Class = \"NSWindow\"; title = \"NPS Browser\"; ObjectID = \"gEz-wV-LLD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NPS Browser"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NPS Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NPS Browser"
+          }
+        }
+      }
+    },
+    "glb-tq-2FN.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"glb-tq-2FN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "gn1-hs-gbI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"JP\"; ObjectID = \"gn1-hs-gbI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "JP"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japonia"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日本"
+          }
+        }
+      }
+    },
+    "GsK-sp-ZRQ.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"GsK-sp-ZRQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "gVA-U4-sdL.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Paste\"; ObjectID = \"gVA-U4-sdL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Paste"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wklej"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘贴"
+          }
+        }
+      }
+    },
+    "H8h-7b-M4v.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"View\"; ObjectID = \"H8h-7b-M4v\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widok"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "视图"
+          }
+        }
+      }
+    },
+    "HFo-cy-zxI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show Spelling and Grammar\"; ObjectID = \"HFo-cy-zxI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show Spelling and Grammar"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokazuj pisownię i gramatykę"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示拼写和语法"
+          }
+        }
+      }
+    },
+    "HFQ-gK-NFA.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Text Replacement\"; ObjectID = \"HFQ-gK-NFA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Replacement"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamiana tekstu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本替换"
+          }
+        }
+      }
+    },
+    "hGN-av-fNe.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"0.00\"; ObjectID = \"hGN-av-fNe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0.00"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0.00"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0.00"
+          }
+        }
+      }
+    },
+    "hQb-2v-fYv.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Smart Quotes\"; ObjectID = \"hQb-2v-fYv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Smart Quotes"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inteligentne cytaty"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能引号"
+          }
+        }
+      }
+    },
+    "Hs0-qH-pwu.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"Hs0-qH-pwu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "HwK-JR-zIM.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Concurrent Downloads\"; ObjectID = \"HwK-JR-zIM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Concurrent Downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobieranie równoczesne"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同时下载数"
+          }
+        }
+      }
+    },
+    "HwL-OR-Tfu.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Location\"; ObjectID = \"HwL-OR-Tfu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Location"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ścieżka"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "位置"
+          }
+        }
+      }
+    },
+    "hxl-eq-kLL.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"hxl-eq-kLL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "HyV-fh-RgO.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"View\"; ObjectID = \"HyV-fh-RgO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widok"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "视图"
+          }
+        }
+      }
+    },
+    "hz2-CU-CR7.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Check Document Now\"; ObjectID = \"hz2-CU-CR7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Document Now"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprawdź dokument teraz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "立即检查文稿"
+          }
+        }
+      }
+    },
+    "IPC-J1-MGG.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PSP Games\"; ObjectID = \"IPC-J1-MGG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSP Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PSP"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSP 游戏"
+          }
+        }
+      }
+    },
+    "ITM-y0-txp.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Region\"; ObjectID = \"ITM-y0-txp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Region"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Region"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地区"
+          }
+        }
+      }
+    },
+    "ITM-y0-txp.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Region\"; ObjectID = \"ITM-y0-txp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Region"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Region"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地区"
+          }
+        }
+      }
+    },
+    "iuc-EO-Y2q.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"iuc-EO-Y2q\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "jAb-Oc-quw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"EU\"; ObjectID = \"jAb-Oc-quw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "EU"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Europa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欧洲"
+          }
+        }
+      }
+    },
+    "jjx-qd-AZ2.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"jjx-qd-AZ2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "Jkf-Xm-ZM9.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Table View Cell\"; ObjectID = \"Jkf-Xm-ZM9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Table View Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka widocznej tabelki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Table View Cell"
+          }
+        }
+      }
+    },
+    "jMM-GG-iAN.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Data View Controller\"; ObjectID = \"jMM-GG-iAN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Data View Controller"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontroler widoku danych"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data View Controller"
+          }
+        }
+      }
+    },
+    "Jr5-TI-hKt.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Downloads\"; ObjectID = \"Jr5-TI-hKt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobrane"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "Jr5-TI-hKt.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Downloads\"; ObjectID = \"Jr5-TI-hKt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobrane"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "JUC-fi-Dnd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PSP Games\"; ObjectID = \"JUC-fi-Dnd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSP Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PSP"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSP 游戏"
+          }
+        }
+      }
+    },
+    "K0q-Lo-NPO.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Download\"; ObjectID = \"K0q-Lo-NPO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobierz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download"
+          }
+        }
+      }
+    },
+    "Kd2-mp-pUS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show All\"; ObjectID = \"Kd2-mp-pUS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show All"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokaż wszystkie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示全部"
+          }
+        }
+      }
+    },
+    "KdV-6f-3Pd.title" : {
+      "comment" : "Class = \"NSSplitViewController\"; title = \"Main Split View\"; ObjectID = \"KdV-6f-3Pd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Main Split View"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Główny widok podzielony"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Main Split View"
+          }
+        }
+      }
+    },
+    "KHB-eh-LxF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Region:\"; ObjectID = \"KHB-eh-LxF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Region:"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Region:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地区:"
+          }
+        }
+      }
+    },
+    "kIP-vf-haE.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Sidebar\"; ObjectID = \"kIP-vf-haE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide Sidebar"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukryj pasek boczny"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏工具栏"
+          }
+        }
+      }
+    },
+    "kOh-FH-Yln.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"title name\"; ObjectID = \"kOh-FH-Yln\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "title name"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nazwa tytułu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "title name"
+          }
+        }
+      }
+    },
+    "KPC-Q2-FnR.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Bookmarks\"; ObjectID = \"KPC-Q2-FnR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bookmarks"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakładki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏夹"
+          }
+        }
+      }
+    },
+    "KPC-Q2-FnR.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Bookmarks\"; ObjectID = \"KPC-Q2-FnR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bookmarks"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakładki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏夹"
+          }
+        }
+      }
+    },
+    "l7a-O4-SBF.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PSV Themes\"; ObjectID = \"l7a-O4-SBF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSV Themes"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motywy PSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSV 主题"
+          }
+        }
+      }
+    },
+    "L7w-ra-m01.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PSV DLCs\"; ObjectID = \"L7w-ra-m01\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSV DLCs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodatkowa zawartość PSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSV DLC"
+          }
+        }
+      }
+    },
+    "LE2-aR-0XJ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Bring All to Front\"; ObjectID = \"LE2-aR-0XJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bring All to Front"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przesuń wszystko na przód"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前置全部窗口"
+          }
+        }
+      }
+    },
+    "Ln7-es-lWC.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Extraction\"; ObjectID = \"Ln7-es-lWC\";",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extraction Methods"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metody wypakowywania"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提取方式"
+          }
+        }
+      }
+    },
+    "Lpm-t1-F3h.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Last Modified\"; ObjectID = \"Lpm-t1-F3h\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Modified"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostatnio zmodyfikowane"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上次修改"
+          }
+        }
+      }
+    },
+    "lsh-3i-7Ci.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSTextField\"; ibShadowedToolTip = \"Type of file\"; ObjectID = \"lsh-3i-7Ci\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type of file"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ pliku"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type of file"
+          }
+        }
+      }
+    },
+    "m92-Fh-sNa.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PSX Games\"; ObjectID = \"m92-Fh-sNa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSX Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PSX"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSX 游戏"
+          }
+        }
+      }
+    },
+    "mF3-Jm-UlQ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PSV Games\"; ObjectID = \"mF3-Jm-UlQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PSV Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PSV"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PSV 游戏"
+          }
+        }
+      }
+    },
+    "mK6-2p-4JG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Check Grammar With Spelling\"; ObjectID = \"mK6-2p-4JG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Grammar With Spelling"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprawdzaj składnię podczas pisania"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拼写时检查语法"
+          }
+        }
+      }
+    },
+    "Mrf-SQ-VJh.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Type\"; ObjectID = \"Mrf-SQ-VJh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类型"
+          }
+        }
+      }
+    },
+    "Mrf-SQ-VJh.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Type\"; ObjectID = \"Mrf-SQ-VJh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Typ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类型"
+          }
+        }
+      }
+    },
+    "mwm-iZ-WHw.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"mwm-iZ-WHw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "n9v-5p-6cD.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Details View Controller\"; ObjectID = \"n9v-5p-6cD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details View Controller"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontroler widoku szczegółów"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Details View Controller"
+          }
+        }
+      }
+    },
+    "nJG-V9-zfz.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Preferences\"; ObjectID = \"nJG-V9-zfz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Preferences"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ustawienia"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferences"
+          }
+        }
+      }
+    },
+    "NMV-GG-GdC.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Location\"; ObjectID = \"NMV-GG-GdC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Location"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ścieżka"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地点"
+          }
+        }
+      }
+    },
+    "Nn2-Ct-nQh.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Table View Cell\"; ObjectID = \"Nn2-Ct-nQh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Table View Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka widocznej tabelki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Table View Cell"
+          }
+        }
+      }
+    },
+    "Ofq-x3-wOT.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Compat Packs\"; ObjectID = \"Ofq-x3-wOT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Compat Packs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paczki kompatybilności"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compat Packs"
+          }
+        }
+      }
+    },
+    "OhS-B2-rNK.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"3\"; ObjectID = \"OhS-B2-rNK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3"
+          }
+        }
+      }
+    },
+    "OIE-2C-WJg.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Library Location\"; ObjectID = \"OIE-2C-WJg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Library Location"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ścieżka biblioteki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载地址"
+          }
+        }
+      }
+    },
+    "Olw-nP-bQN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide NPS Browser\"; ObjectID = \"Olw-nP-bQN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide NPS Browser"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukryj NPS Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏NPS Browser"
+          }
+        }
+      }
+    },
+    "oQp-IL-ICL.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Artwork View\"; ObjectID = \"oQp-IL-ICL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Artwork View"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokazuj okładkę"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artwork View"
+          }
+        }
+      }
+    },
+    "oTj-nI-kQK.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Table View Cell\"; ObjectID = \"oTj-nI-kQK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Table View Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka widocznej tabelki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Table View Cell"
+          }
+        }
+      }
+    },
+    "OwM-mh-QMV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find Previous\"; ObjectID = \"OwM-mh-QMV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Previous"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdź poprzedni"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找上一个"
+          }
+        }
+      }
+    },
+    "OY7-WF-poV.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Minimize\"; ObjectID = \"OY7-WF-poV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Minimize"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimalizuj"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最小化"
+          }
+        }
+      }
+    },
+    "Oyz-dy-DGm.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Stop Speaking\"; ObjectID = \"Oyz-dy-DGm\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop Speaking"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przestań mówić"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止讲话"
+          }
+        }
+      }
+    },
+    "pa3-QI-u2k.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Delete\"; ObjectID = \"pa3-QI-u2k\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
+        }
+      }
+    },
+    "pkc-Rj-8Ls.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Compat Patches\"; ObjectID = \"pkc-Rj-8Ls\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Compat Patches"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Łatki kompatybilności"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compat Patches"
+          }
+        }
+      }
+    },
+    "Pqh-e6-jyw.ibShadowedToolTip" : {
+      "comment" : "Class = \"NSButton\"; ibShadowedToolTip = \"Remove\"; ObjectID = \"Pqh-e6-jyw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Remove"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuń"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "PXZ-S7-M3p.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"PXZ-S7-M3p\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "Pyf-pd-7mE.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"Pyf-pd-7mE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "q3m-Fw-oE0.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PS3 Themes\"; ObjectID = \"q3m-Fw-oE0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 Themes"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motywy PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 主题"
+          }
+        }
+      }
+    },
+    "q09-fT-Sye.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find Next\"; ObjectID = \"q09-fT-Sye\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Next"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdź następny"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找下一个"
+          }
+        }
+      }
+    },
+    "QQM-88-Wvd.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Bookmarks View Controller\"; ObjectID = \"QQM-88-Wvd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bookmarks View Controller"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontroler widoku zakładek"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bookmarks View Controller"
+          }
+        }
+      }
+    },
+    "Qwh-cy-0kt.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"Qwh-cy-0kt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "R4o-n2-Eq4.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Zoom\"; ObjectID = \"R4o-n2-Eq4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Zoom"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Powiększ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缩放"
+          }
+        }
+      }
+    },
+    "rbD-Rh-wIN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Check Spelling While Typing\"; ObjectID = \"rbD-Rh-wIN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Check Spelling While Typing"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprawdzaj pisownie podczas pisania"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "键入内容时检查拼写"
+          }
+        }
+      }
+    },
+    "Rg0-Z5-FLz.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"Rg0-Z5-FLz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "rgM-f4-ycn.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Smart Dashes\"; ObjectID = \"rgM-f4-ycn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Smart Dashes"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inteligentne myślniki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "智能破折号"
+          }
+        }
+      }
+    },
+    "Ruw-6m-B2m.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Select All\"; ObjectID = \"Ruw-6m-B2m\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select All"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaznacz wszystkie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全选"
+          }
+        }
+      }
+    },
+    "RuY-Yx-7it.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"RuY-Yx-7it\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "S0p-oC-mLd.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Jump to Selection\"; ObjectID = \"S0p-oC-mLd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Jump to Selection"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przeskocz do wybranych"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跳到所选部分"
+          }
+        }
+      }
+    },
+    "S1C-gw-f9z.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"S1C-gw-f9z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "sEk-an-SX4.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Use Defaults\"; ObjectID = \"sEk-an-SX4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use Defaults"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Używaj domyślnych"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用默认值"
+          }
+        }
+      }
+    },
+    "SgC-bH-Mwx.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Region\"; ObjectID = \"SgC-bH-Mwx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Region"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Region"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地区"
+          }
+        }
+      }
+    },
+    "sIY-oG-9Z5.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Table View Cell\"; ObjectID = \"sIY-oG-9Z5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Table View Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka widocznej tabelki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Table View Cell"
+          }
+        }
+      }
+    },
+    "SkS-fk-21K.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PS3 Games\"; ObjectID = \"SkS-fk-21K\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 Games"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gry PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 游戏"
+          }
+        }
+      }
+    },
+    "Snj-Vn-zlQ.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PS3 DLCs\"; ObjectID = \"Snj-Vn-zlQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 DLCs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodatkowa zawartość PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 DLC"
+          }
+        }
+      }
+    },
+    "snW-S8-Cw5.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show Toolbar\"; ObjectID = \"snW-S8-Cw5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show Toolbar"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokazuj pasek narzędzi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示工具栏"
+          }
+        }
+      }
+    },
+    "SOC-lv-SK1.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Download Progress View Controller\"; ObjectID = \"SOC-lv-SK1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Download Progress View Controller"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kontroler widoku postępu pobierania"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download Progress View Controller"
+          }
+        }
+      }
+    },
+    "Td7-aD-5lo.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Window\"; ObjectID = \"Td7-aD-5lo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Window"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Okno"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "窗口"
+          }
+        }
+      }
+    },
+    "TDI-Yj-oQi.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"1\"; ObjectID = \"TDI-Yj-oQi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1"
+          }
+        }
+      }
+    },
+    "TIu-Xr-ONW.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"Title\"; ObjectID = \"TIu-Xr-ONW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tytuł"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Title"
+          }
+        }
+      }
+    },
+    "TMh-Cn-0WR.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"Title ID\"; ObjectID = \"TMh-Cn-0WR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title ID"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Identyfikator tytułu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "游戏 ID"
+          }
+        }
+      }
+    },
+    "tMY-5i-zVw.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"PS3 DLCs\"; ObjectID = \"tMY-5i-zVw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 DLCs"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodatkowa zawartość PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 DLC"
+          }
+        }
+      }
+    },
+    "tRr-pd-1PS.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Data Detectors\"; ObjectID = \"tRr-pd-1PS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Data Detectors"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wykrywanie danych"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数据检测"
+          }
+        }
+      }
+    },
+    "UEZ-Bs-lqG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Capitalize\"; ObjectID = \"UEZ-Bs-lqG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Capitalize"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaczynaj dużą literą..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "首字母大写"
+          }
+        }
+      }
+    },
+    "uqp-4b-8ti.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"US\"; ObjectID = \"uqp-4b-8ti\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "US"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stany Zjednoczone"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "美国"
+          }
+        }
+      }
+    },
+    "uQy-DD-JDr.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"NPS Browser\"; ObjectID = \"uQy-DD-JDr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NPS Browser"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NPS Browser"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NPS Browser"
+          }
+        }
+      }
+    },
+    "uRl-iY-unG.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Cut\"; ObjectID = \"uRl-iY-unG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cut"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wytnij"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "剪切"
+          }
+        }
+      }
+    },
+    "Vdr-fp-XzO.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Hide Others\"; ObjectID = \"Vdr-fp-XzO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hide Others"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ukryj pozostałe"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏其他应用"
+          }
+        }
+      }
+    },
+    "VIe-MZ-aWa.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"VIe-MZ-aWa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "vIl-E9-eh1.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Factor\"; ObjectID = \"vIl-E9-eh1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Factor"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Element"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Factor"
+          }
+        }
+      }
+    },
+    "VKU-SK-I5o.placeholderString" : {
+      "comment" : "Class = \"NSTextFieldCell\"; placeholderString = \"url goes here\"; ObjectID = \"VKU-SK-I5o\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "url goes here"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadź adres URL..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "url在这里填写"
+          }
+        }
+      }
+    },
+    "vmV-6d-7jI.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Make Upper Case\"; ObjectID = \"vmV-6d-7jI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Make Upper Case"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zamień na duże litery"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大写"
+          }
+        }
+      }
+    },
+    "vnt-bk-4ap.title" : {
+      "comment" : "Class = \"NSViewController\"; title = \"Loading...\"; ObjectID = \"vnt-bk-4ap\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Loading..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ładowanie..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading..."
+          }
+        }
+      }
+    },
+    "W48-6f-4Dl.title" : {
+      "comment" : "Class = \"NSMenu\"; title = \"Edit\"; ObjectID = \"W48-6f-4Dl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edytuj"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
+          }
+        }
+      }
+    },
+    "Wcn-XJ-lpK.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Required FW:\"; ObjectID = \"Wcn-XJ-lpK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Required FW:"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wymagane oprogramowanie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低固件版本:"
+          }
+        }
+      }
+    },
+    "WeT-3V-zwk.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Paste and Match Style\"; ObjectID = \"WeT-3V-zwk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Paste and Match Style"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wklej i dopasuj styl"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘贴并匹配样式"
+          }
+        }
+      }
+    },
+    "wxO-0r-gjW.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Downloads\"; ObjectID = \"wxO-0r-gjW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobrane"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "x3f-XS-6er.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"ASIA\"; ObjectID = \"x3f-XS-6er\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ASIA"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AZJA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "亚洲"
+          }
+        }
+      }
+    },
+    "x3v-GG-iWU.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Copy\"; ObjectID = \"x3v-GG-iWU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copy"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kopiuj"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
+        }
+      }
+    },
+    "x6e-BC-oZE.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Reload\"; ObjectID = \"x6e-BC-oZE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reload"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odświerz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload"
+          }
+        }
+      }
+    },
+    "x6e-BC-oZE.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Reload Button + Spinner\"; ObjectID = \"x6e-BC-oZE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reload Button + Spinner"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Przycisk odświeżania + trybik"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload Button + Spinner"
+          }
+        }
+      }
+    },
+    "XNq-bF-lbb.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"PS3 Avatars\"; ObjectID = \"XNq-bF-lbb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PS3 Avatars"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Awatary PS3"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PS3 图标"
+          }
+        }
+      }
+    },
+    "xrE-MZ-jX0.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Speech\"; ObjectID = \"xrE-MZ-jX0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Speech"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dyktowanie"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "语音"
+          }
+        }
+      }
+    },
+    "XU7-TU-N2R.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"XU7-TU-N2R\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "Xz5-n4-O0W.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find…\"; ObjectID = \"Xz5-n4-O0W\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find…"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdź"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找…"
+          }
+        }
+      }
+    },
+    "y3f-ns-l4Y.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"y3f-ns-l4Y\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "yCr-dO-lvB.headerCell.title" : {
+      "comment" : "Class = \"NSTableColumn\"; headerCell.title = \"File Size\"; ObjectID = \"yCr-dO-lvB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "File Size"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozmiar pliku"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件大小"
+          }
+        }
+      }
+    },
+    "YEy-JH-Tfz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Find and Replace…\"; ObjectID = \"YEy-JH-Tfz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find and Replace…"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Znajdź i zamień..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查找并替换…"
+          }
+        }
+      }
+    },
+    "yf5-If-lyN.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Reload\"; ObjectID = \"yf5-If-lyN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reload"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odświerz"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新加载"
+          }
+        }
+      }
+    },
+    "Ynk-f8-cLZ.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Start Speaking\"; ObjectID = \"Ynk-f8-cLZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start Speaking"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zacznij mówić"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始讲话"
+          }
+        }
+      }
+    },
+    "Yr7-I7-uux.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Update\"; ObjectID = \"Yr7-I7-uux\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualizacja"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新"
+          }
+        }
+      }
+    },
+    "Yvg-Ni-f30.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Extract PKG after downloading\"; ObjectID = \"Yvg-Ni-f30\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Extract PKG after downloading"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wypakuj PKG po pobraniu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载后提取PKG"
+          }
+        }
+      }
+    },
+    "z6F-FW-3nz.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Show Substitutions\"; ObjectID = \"z6F-FW-3nz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show Substitutions"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokazuj zastępowania"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示替换"
+          }
+        }
+      }
+    },
+    "Zb1-Gr-mvT.label" : {
+      "comment" : "Class = \"NSToolbarItem\"; label = \"Search\"; ObjectID = \"Zb1-Gr-mvT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyszukaj"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索"
+          }
+        }
+      }
+    },
+    "Zb1-Gr-mvT.paletteLabel" : {
+      "comment" : "Class = \"NSToolbarItem\"; paletteLabel = \"Search\"; ObjectID = \"Zb1-Gr-mvT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyszukaj"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索"
+          }
+        }
+      }
+    },
+    "ZCj-PF-2is.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Text Cell\"; ObjectID = \"ZCj-PF-2is\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Text Cell"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Komórka tekstowa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text Cell"
+          }
+        }
+      }
+    },
+    "Zl8-so-fsA.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"Zl8-so-fsA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "ZQv-WX-FIj.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"...\"; ObjectID = \"ZQv-WX-FIj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "..."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "..."
+          }
+        }
+      }
+    },
+    "zrP-Kf-B0w.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Bookmarks\"; ObjectID = \"zrP-Kf-B0w\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Bookmarks"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zakładki"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收藏夹"
+          }
+        }
+      }
+    },
+    "zs9-kp-FLs.title" : {
+      "comment" : "Class = \"NSTextFieldCell\"; title = \"Name\"; ObjectID = \"zs9-kp-FLs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nazwa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称"
+          }
+        }
+      }
+    },
+    "ZXg-Ug-dCx.title" : {
+      "comment" : "Class = \"NSBox\"; title = \"Downloads\"; ObjectID = \"ZXg-Ug-dCx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Downloads"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobrane"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
+          }
+        }
+      }
+    },
+    "zxK-37-XlQ.title" : {
+      "comment" : "Class = \"NSButtonCell\"; title = \"Clear\"; ObjectID = \"zxK-37-XlQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clear"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wyczyść"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

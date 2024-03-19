@@ -49,7 +49,7 @@ struct ItemType: CustomStringConvertible {
         }
     }
     static func parseString(_ txt: String = "", _ type: FileType) -> ItemType {
-        let parsed = try txt.split(separator: " ")
+        let parsed = txt.split(separator: " ")
         let c = ConsoleType(rawValue: String(parsed.first ?? ""))
 //        let ft = FileType(rawValue: String(parsed.last?.dropLast() ?? ""))
         let ft = type

@@ -78,8 +78,8 @@ class DownloadListItemCellView: NSTableCellView {
             }
         }
         
-        let str = dlLoc?.absoluteString.removingPercentEncoding
-        let path = URL(fileURLWithPath: str!, isDirectory: true)
+        let str = dlLoc?.absoluteString.removingPercentEncoding ?? ""
+        let path = URL(fileURLWithPath: str, isDirectory: true)
         
         NSWorkspace.shared.open(path)
     }

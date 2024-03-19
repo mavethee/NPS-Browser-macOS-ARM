@@ -10,6 +10,7 @@ import Cocoa
 import SwiftyBeaver
 import RealmSwift
 import SwiftyUserDefaults
+import UserNotifications
 
 let log = SwiftyBeaver.self
 
@@ -21,7 +22,7 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSUserNotificationCenterDele
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         // Insert code here to initialize your application
         setupSwiftyBeaverLogging()
-        setupDownloadsDirectory()
+        // Helpers.setupDownloadsDirectory()
     }
     
     func applicationWillTerminate(_ aNotification: Notification) {
@@ -41,42 +42,26 @@ class AppDelegate: NSObject, NSApplicationDelegate, NSUserNotificationCenterDele
         log.addDestination(file)
     }
     
-    func setupDownloadsDirectory() {
-        var dlFolder: URL? = Defaults[.dl_library_location]
-        
-        
-//        if (try! !dlFolder.checkResourceIsReachable()) {
-//            dlFolder =
-//            try! Defaults[.dl_library_location] = dlFolder
-//        }
-        
-        let dlDirName = "NPS Downloads"
-        
-        do {
-            try Folder(path: dlFolder!.path).createSubfolderIfNeeded(withName: dlDirName)
-        } catch {
-            dlFolder = try! NSHomeDirectory().asURL().appendingPathComponent("Downloads")
-            Defaults.set(dlFolder!.absoluteURL, forKey: "dl_library_location")
-            try! Folder(path: dlFolder!.path).createSubfolderIfNeeded(withName: dlDirName)
-        }
-        
-    }
-    
     // MARK: - Notifications
     
     func showNotification(title: String, subtitle: String) {
-        let notification = NSUserNotification()
-        
-        notification.title = title
-        notification.subtitle = subtitle
-        notification.soundName = NSUserNotificationDefaultSoundName
-        NSUserNotificationCenter.default.delegate = self
-        NSUserNotificationCenter.default.deliver(notification)
+      let content = UNMutableNotificationContent()
+      content.title = title
+      content.subtitle = subtitle
+      content.sound = UNNotificationSound.default
+
+      let request = UNNotificationRequest(identifier: "myNotification", content: content, trigger: nil) // You can also use UNTimeIntervalNotificationTrigger for timed notifications
+      UNUserNotificationCenter.current().add(request) { (error) in
+        if let error = error {
+          print("Error showing notification: \(error)")
+        }
+      }
     }
     
-    func userNotificationCenter(_ center: NSUserNotificationCenter, shouldPresent notification: NSUserNotification) -> Bool {
-        return true
+    // Delegate method for notification presentation (optional)
+    func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+      // Customize notification presentation here
+      completionHandler([.banner, .sound]) // Allow banner and sound
     }
-
 }
 

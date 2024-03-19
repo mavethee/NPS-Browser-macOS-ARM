@@ -101,3 +101,7 @@ iOSInjectionProject/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/xcode,swift,carthage
+.DS_Store
+NPS Browser/.DS_Store
+NPS Browser/Assets.xcassets/.DS_Store
+NPS Browser/.DS_Store

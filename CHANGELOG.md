@@ -1,4 +1,38 @@
 # Changelog
+
+## v1.4.8
+### Added
+- Polish localization
+
+### Changed
+- Updated localization files formats,
+- Fix `MACOSX_DEPLOYMENT_TARGET` to `11.0`,
+- Switched to `UserNotifications` API for macOS 11 and newer,
+- Update to more [modern icon](https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/c79aabed1f6deb900c813143d11b0b9a_AxmUGSHCV6.icns), thx @t3rminus 
+
+## v1.4.7
+### Added
+- Swift 5 compatibility.
+- Download folder and extraction folder are set by default in the Preferences to the Downloads folder but could be different.
+
+### Changed
+- macOS 10.12 is no longer supported. App now requires 10.13 to run.
+- Carthage is no longer needed. App now uses SPM.
+- Remove the build steps for Carthage frameworks.
+- Realm updated from the 3.13 to master branch.
+- Fuzy updated to the 3.1.3 version.
+- Promises updated from 1.2 to the 2.3.1 version.
+- Zip updated from the 2.1 to the 2.1.2 version.
+- Fixed typo in fuction call makeConcurrentOperation
+- Running and tested under Apple M1.
+
+### Fixed
+- Download table view constraints for present the action button for each item.
+
+## v1.4.6
+### Fixed
+- 404.html file on RAP download is now fixed.
+
 ## v1.4.5
 ### Fixed
 - Merged an update to fix localization files (@L1cardo)

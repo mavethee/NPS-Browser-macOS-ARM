@@ -79,9 +79,9 @@ class DataViewController: NSViewController, ToolbarDelegate {
 //        let p = NSPredicate(format: "consoleType == %@ AND fileType == %@ AND region == %@ AND name contains[c] %@ AND pkgDirectLink != 'MISSING'", itemType.console.rawValue, itemType.fileType.rawValue, region, searchString)
         var p = makePredicateString()
         p.append(" AND name contains[c] %@")
-        var q = NSPredicate(format: p, itemType.console.rawValue, itemType.fileType.rawValue, region, searchString)
+        let q = NSPredicate(format: p, itemType.console.rawValue, itemType.fileType.rawValue, region, searchString)
 
-        let objects = items!.filter(q) ?? nil
+        let objects = items!.filter(q)
         setArrayControllerContent(content: objects)
     }
     
@@ -92,8 +92,8 @@ class DataViewController: NSViewController, ToolbarDelegate {
     }
     
     func getDetailsViewController() -> DetailsViewController {
-        let sc: NSSplitViewController = parent?.childViewControllers[1] as! NSSplitViewController
-        let vc: DetailsViewController = sc.childViewControllers[0] as! DetailsViewController
+      let sc: NSSplitViewController = parent?.children[1] as! NSSplitViewController
+      let vc: DetailsViewController = sc.children[0] as! DetailsViewController
         return vc
     }
 }

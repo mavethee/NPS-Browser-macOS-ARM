@@ -62,7 +62,7 @@ class Parser {
                     return nil
                 }
                 
-                var hp = lastpkg.firstChild(tag: "hybrid_package")
+                let hp = lastpkg.firstChild(tag: "hybrid_package")
                 if hp == nil {
                     x = lastpkg.attributes["url"]!
                 } else {

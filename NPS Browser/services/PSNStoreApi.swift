@@ -36,7 +36,7 @@ class PSNStoreApi {
         default: countryAbbv = region
         }
         
-        var psnUrl = "https://store.playstation.com/store/api/chihiro/00_09_000/container/\(countryAbbv)/\(language)/19/\(contentId)/1534563384000/image?w=248&h=248"
+        let psnUrl = "https://store.playstation.com/store/api/chihiro/00_09_000/container/\(countryAbbv)/\(language)/19/\(contentId)/1534563384000/image?w=248&h=248"
         return URL(string: psnUrl)!
     }
     
@@ -50,7 +50,7 @@ class PSNStoreApi {
                             fulfill(image)
                         }
                     } else {
-                        log.info("No image found for \(self.item.titleId) - \(self.item.name)")
+                        log.info("No image found for \(String(describing: self.item.titleId)) - \(String(describing: self.item.name))")
                         fulfill(#imageLiteral(resourceName: "no-image"))
                     }
             }

@@ -41,9 +41,9 @@ class Item: Object {
     dynamic var rap                         : String?
     dynamic var downloadRapFile             : String?
     dynamic var zrif                       : String?
-    let requiredFw = RealmOptional<Float>()
+    let requiredFw = RealmProperty<Float?>()
     dynamic var lastModificationDate    : Date?
-    let fileSize = RealmOptional<Int64>()
+    let fileSize = RealmProperty<Int64?>()
     dynamic var sha256                  : String?
     
     dynamic var pk: String = ""
@@ -92,7 +92,7 @@ class Item: Object {
         obj.rap = fromObject.rap
         obj.downloadRapFile = fromObject.downloadRapFile
         
-        let pk: String = "\(fromObject.region)\(fromObject.fileType)\(fromObject.titleId)\(fromObject.contentId)"
+        let pk: String = "\(String(describing: fromObject.region))\(String(describing: fromObject.fileType))\(String(describing: fromObject.titleId))\(String(describing: fromObject.contentId))"
         obj.pk = pk
         
         return obj
